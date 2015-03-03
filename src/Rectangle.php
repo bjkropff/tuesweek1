@@ -6,8 +6,8 @@
 
         function __construct($l, $w)
         {
-                $this->length = $l;
-                $this->width = $w;
+            $this->length = $l;
+            $this->width = $w;
         }
 
         function isSquare()
